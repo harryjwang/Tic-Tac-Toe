@@ -1,4 +1,4 @@
-// Jerry Wang | CE 2336.002
+// Harry Wang
 
 // Analysis
 /* 
